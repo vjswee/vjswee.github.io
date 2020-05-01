@@ -1,6 +1,6 @@
-source "https://rubygems.org"
-
-gem "jekyll"
-gem "jekyll-gist"
-gem "jekyll-paginate"
-gem "jekyll-seo-tag"
+source 'https://rubygems.org' do
+  gem 'jekyll-tidy'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-toc'
+  gem 'jekyll-random'
+end
