@@ -21,7 +21,7 @@ locale                   : "en-US"
 title                    : "SVS Technology"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "SVS Technology"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -97,8 +97,8 @@ analytics:
 author:
   name             : "Vijay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "My interests are big data, AI, ML, Realtime data acquisition, embedded systems, electromechanical design and hardware. I have Ph.D. in EE. This site showcases some of my  work."
+  location         : "Palo Alto, California"
   email            :
   links:
     - label: "Email"
